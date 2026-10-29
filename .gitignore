@@ -1,0 +1,12 @@
+# Original datasets: keep these local and out of Git.
+/20250918_lidar/
+/20250918_lidar_evening/
+/__MACOSX/
+
+# Platform/archive noise and local environments.
+.DS_Store
+Thumbs.db
+__pycache__/
+.venv/
+venv/
+*.py[cod]

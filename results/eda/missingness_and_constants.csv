@@ -1,0 +1,53 @@
+session,source,column,dtype,missing_count,missing_pct,unique_non_null,constant_non_null,most_common_value,most_common_count
+20250918_lidar,fc,datetime,datetime64[ns],1,0.0040683482506102524,24579,False,2025-09-18 07:40:38.361235,1
+20250918_lidar,fc,relative_alt,float64,1,0.0040683482506102524,6806,False,1.486,115
+20250918_lidar,fc,lat,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,lon,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,alt,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,vx,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,vy,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,vz,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,hdg,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,roll,float64,1,0.0040683482506102524,24526,False,-0.0244000814855098,6
+20250918_lidar,fc,pitch,float64,1,0.0040683482506102524,24446,False,0.0107426783069968,6
+20250918_lidar,fc,yaw,float64,1,0.0040683482506102524,23334,False,2.696964263916016,6
+20250918_lidar,fc,rollspeed,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,pitchspeed,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,yawspeed,float64,24580,100.0,0,False,,0
+20250918_lidar,fc,xacc,float64,1,0.0040683482506102524,562,False,52.0,5585
+20250918_lidar,fc,yacc,float64,1,0.0040683482506102524,425,False,-2.0,6946
+20250918_lidar,fc,zacc,float64,1,0.0040683482506102524,884,False,-995.0,1160
+20250918_lidar,fc,xgyro,float64,1,0.0040683482506102524,875,False,2.0,7007
+20250918_lidar,fc,ygyro,float64,1,0.0040683482506102524,594,False,-2.0,6100
+20250918_lidar,fc,zgyro,float64,1,0.0040683482506102524,876,False,-1.0,7905
+20250918_lidar,fc,xmag,float64,1,0.0040683482506102524,492,False,-114.0,2386
+20250918_lidar,fc,ymag,float64,1,0.0040683482506102524,476,False,195.0,1863
+20250918_lidar,fc,zmag,float64,1,0.0040683482506102524,160,False,503.0,2007
+20250918_lidar,lidar,datetime,datetime64[ns],1,0.052273915316257184,1912,False,2025-09-18 07:40:38.464617,1
+20250918_lidar,lidar,dist,float64,1,0.052273915316257184,165,False,1.5,783
+20250918_lidar_evening,fc,datetime,datetime64[ns],0,0.0,10101,False,2025-09-18 04:07:27.901471,1
+20250918_lidar_evening,fc,relative_alt,float64,0,0.0,5875,False,0.483,35
+20250918_lidar_evening,fc,lat,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,lon,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,alt,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,vx,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,vy,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,vz,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,hdg,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,roll,float64,0,0.0,10091,False,-0.0047057662159204,5
+20250918_lidar_evening,fc,pitch,float64,0,0.0,10090,False,-0.0068199234083294,5
+20250918_lidar_evening,fc,yaw,float64,0,0.0,10088,False,-0.2688205540180206,5
+20250918_lidar_evening,fc,rollspeed,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,pitchspeed,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,yawspeed,float64,10101,100.0,0,False,,0
+20250918_lidar_evening,fc,xacc,int64,0,0.0,380,False,-7,1218
+20250918_lidar_evening,fc,yacc,int64,0,0.0,595,False,4,897
+20250918_lidar_evening,fc,zacc,int64,0,0.0,617,False,-1012,262
+20250918_lidar_evening,fc,xgyro,int64,0,0.0,592,False,0,1574
+20250918_lidar_evening,fc,ygyro,int64,0,0.0,369,False,0,1327
+20250918_lidar_evening,fc,zgyro,int64,0,0.0,525,False,0,1559
+20250918_lidar_evening,fc,xmag,int64,0,0.0,448,False,210,441
+20250918_lidar_evening,fc,ymag,int64,0,0.0,339,False,53,523
+20250918_lidar_evening,fc,zmag,int64,0,0.0,122,False,573,485
+20250918_lidar_evening,lidar,datetime,datetime64[ns],0,0.0,816,False,2025-09-18 04:07:28.008595,1
+20250918_lidar_evening,lidar,dist,float64,0,0.0,158,False,0.1,106
